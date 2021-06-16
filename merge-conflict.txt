@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 Hello world!!!
 local 2nd line
-=======
-Hello world!
-2nn line
->>>>>>> 04a3ddce8eedebcd8f093d2ed69d7f7fb7fa322e
